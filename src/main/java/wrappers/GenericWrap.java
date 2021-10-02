@@ -22,6 +22,8 @@ public class GenericWrap extends Reporting implements Wrappers {
 
 	
 	public GenericWrap()
+	
+	
 {
 	
 
