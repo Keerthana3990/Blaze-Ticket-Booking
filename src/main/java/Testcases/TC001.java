@@ -24,7 +24,7 @@ public class TC001 extends HomePage {
 		.selecttoPort("London");
 		
 		// click on the find flights button
-		//.findFlights();
+		.findFlights();
 	}
 
 }
